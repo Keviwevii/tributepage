@@ -1,0 +1,52 @@
+* {
+  font-family: "Fira Sans", sans-serif;
+}
+#logo-title {
+  display: flex;
+}
+#logo-side {
+  margin-right: -5px;
+}
+#title-side {
+  justify-content: center;
+  align-self: center;
+  background-color: rgba(74, 193, 233, 0.5);
+  width: 100%;
+  text-align: center;
+}
+#img-div {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 50px;
+  
+}
+#image {
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+#figcap {
+  margin-top: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+#tribute-info{
+border: 10px solid black;
+display: flex;
+flex-direction: column;
+align-items: center;
+background-color: rgba(74, 193, 233, 0.5);
+}
+h2{
+    width: 100%;
+    text-align: center;
+    background-color: aliceblue;
+    font-size: 25px;
+}
+p{
+    text-align: center;
+}
+#overview{
+    padding: 10px 5px;
+    border-top: 5px solid aliceblue;
+}
