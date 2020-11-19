@@ -1,6 +1,6 @@
 # Tribute Page for Symmetra
 
-This was my first project for my FreeCodeCamp responsive web design certification. 
+This was my first project for the FreeCodeCamp responsive web design certification. 
 This webpage was created with HTML, CSS and flexbox. 
 
 ![Image of symmetra carwashing Soldier: 76]
